@@ -12,6 +12,7 @@ Explore my repositories to see how I approach security challenges with a solutio
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunting Scenario: Internal PowerShell Port Scanning](https://github.com/SecOpsPete/threat-hunting-scenario2)**
 - **[Threat Hunting Scenario: Exposed VM Brute-Force Investigation](https://github.com/SecOpsPete/threat-hunting-scenario1)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
