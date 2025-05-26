@@ -16,6 +16,10 @@ Explore my repositories to see how I approach security challenges with a solutio
 - **[Threat Hunting Scenario: Exposed VM Brute-Force Investigation](https://github.com/SecOpsPete/threat-hunting-scenario1)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+## 🔧 Tools
+
+- [GPG Signature Verification Guide](./gpg-verification-guide) – How to verify digital signatures for downloaded files using GPG.
+
 <hr/>
 
 ## 🤳 Connect With Me
