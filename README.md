@@ -1,27 +1,48 @@
-# <a href="https://www.linkedin.com/in/vanr/">Peter Van Rossum</a>'s IT and Cybersecurity Project Portfolio 🔐
+# 🔐 Peter Van Rossum's IT & Cybersecurity Project Portfolio
 
-🔐 Cybersecurity Enthusiast | Solutions Engineer Track
-Passionate about securing systems and solving real-world problems through hands-on projects. My work focuses on vulnerability management, threat detection, and enhancing security operations through practical application of cybersecurity tools and frameworks.
-Explore my repositories to see how I approach security challenges with a solutions-driven mindset.
+📍 [Connect on LinkedIn](https://www.linkedin.com/in/vanr/)
 
+---
+
+🚀 **Cybersecurity Enthusiast | Solutions Engineer Track**
+
+I’m passionate about securing systems and solving real-world problems through hands-on projects. My portfolio highlights how I apply cybersecurity tools and frameworks to improve threat detection, vulnerability management, and operational resilience.
+
+---
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/SecOpsPete/Vulnerability_Management_Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell)](https://github.com/SecOpsPete/Vulnerability_Management_Program/tree/main/scripts)**
+- 🔧 **[Vulnerability Management Program Implementation](https://github.com/SecOpsPete/Vulnerability_Management_Program)**  
+  A complete documentation-based approach to launching an internal vulnerability management program.
 
-## 🚨 Threat Hunting and Security Operations
+- 💻 **[Programmatic Remediation Scripts (PowerShell)](https://github.com/SecOpsPete/Vulnerability_Management_Program/tree/main/scripts)**  
+  Automated scripts for common CVE remediation and configuration hardening.
 
-- **[Threat Hunting Scenario: Internal PowerShell Port Scanning](https://github.com/SecOpsPete/threat-hunting-scenario2)**
-- **[Threat Hunting Scenario: Exposed VM Brute-Force Investigation](https://github.com/SecOpsPete/threat-hunting-scenario1)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+---
 
-## 🔧 Tools
+## 🚨 Threat Hunting & Security Operations
 
-- [GPG Signature Verification Guide](./gpg-verification-guide) – How to verify digital signatures for downloaded files using GPG.
+- 🔎 **[Threat Hunt: PowerShell Port Scanning](https://github.com/SecOpsPete/threat-hunting-scenario2)**  
+  Detection and investigation of internal lateral movement using obfuscated scripts.
 
-<hr/>
+- 🌐 **[Threat Hunt: Exposed VM Brute Force](https://github.com/SecOpsPete/threat-hunting-scenario1)**  
+  Analysis of brute-force behavior on a cloud-based Linux server.
 
-## 🤳 Connect With Me
+- 🕵️‍♂️ **[Threat Hunt: Tor Browser Usage](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
+  Collaborated on detection of anonymized traffic in enterprise environments.
 
-[<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/vanr/)
+---
+
+## 🛠️ Tools
+
+- 🔐 **[GPG Signature Verification Guide](./gpg-verification-guide)**  
+  A step-by-step guide for verifying file authenticity and integrity using GPG with real-world examples.
+
+_More tools coming soon: file integrity checkers, remediation automations, network analysis helpers, and more._
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/vanr/)  
+📫 I’m always open to collaborate or discuss how to bring security into solution design.
