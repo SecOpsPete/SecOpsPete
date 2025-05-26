@@ -18,6 +18,9 @@ I’m passionate about securing systems and solving real-world problems through 
 - 💻 **[Programmatic Remediation Scripts (PowerShell)](https://github.com/SecOpsPete/Vulnerability_Management_Program/tree/main/scripts)**  
   Automated scripts for common CVE remediation and configuration hardening.
 
+- 💬 **[Prompt Engineering References](https://github.com/SecOpsPete/Vulnerability_Management_Program/tree/main/prompts)**  
+  ChatGPT prompts used to generate and refine PowerShell remediation scripts, demonstrating structured problem-solving and AI-assisted development.
+
 ---
 
 ## 🚨 Threat Hunting & Security Operations
