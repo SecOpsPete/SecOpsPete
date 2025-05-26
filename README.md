@@ -45,7 +45,7 @@ I’m passionate about securing systems and solving real-world problems through 
   Validates that a downloaded file hasn’t been altered using SHA256 hash checking in PowerShell.
 
 
-_More tools coming soon: file integrity checkers, remediation automations, network analysis helpers, and more._
+_More tools coming soon: remediation automations, network analysis helpers, and more._
 
 ---
 
