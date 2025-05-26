@@ -44,5 +44,6 @@ _More tools coming soon: file integrity checkers, remediation automations, netwo
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/vanr/)  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanr/)
+ 
 📫 I’m always open to collaborate or discuss how to bring security into solution design.
