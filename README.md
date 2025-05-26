@@ -35,7 +35,7 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ## 🛠️ Tools
 
-- 🔐 **[GPG Signature Verification Guide](https://github.com/SecOpsPete/cybersecurity-tools/gpg-verification-guide)**  
+- 🔐 **[GPG Signature Verification Guide](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/gpg-verification-guide.md)**  
   A step-by-step guide for verifying file authenticity and integrity using GPG with real-world examples.
 
 _More tools coming soon: file integrity checkers, remediation automations, network analysis helpers, and more._
