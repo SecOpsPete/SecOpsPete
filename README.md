@@ -49,7 +49,7 @@ I’m passionate about securing systems and solving real-world problems through 
 - 🧪 [File Integrity Verification (SHA256)](https://github.com/SecOpsPete/cybersecurity-tools/tree/main/file-integrity-verification)  
   Validates that a downloaded file hasn’t been altered using SHA256 hash checking in PowerShell.
 
-- 🔐 [SSH Key Authentication Lab](https://github.com/YourUsername/cybersecurity-tools/tree/main/ssh-key-authentication-lab)  
+- 🔐 [SSH Key Authentication Lab](https://github.com/SecOPsPete/cybersecurity-tools/tree/main/ssh-key-authentication-lab)  
   A hands-on guide to configuring and using SSH key-based authentication.
 
 
