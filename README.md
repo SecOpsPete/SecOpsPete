@@ -23,21 +23,20 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ---
 
-## 🚨 Threat Hunting & Security Operations
-
 ## 🔎 Threat Hunting Labs
 
-- 🧪 **[Suspicious Insider Exfiltration Attempt](https://github.com/SecOpsPete/threat-hunting-scenario-dataexfil)**  
+- 🧪 **[Suspicious Insider Exfiltration Attempt](https://github.com/SecOpsPete/threat-hunting-scenarios/tree/main/insider-data-exfil)**  
   Investigates potential insider threat activity using Microsoft Defender for Endpoint, correlating file, process, and network telemetry to detect staged data exfiltration.
 
-- 🔎 **[Threat Hunt: PowerShell Port Scanning](https://github.com/SecOpsPete/threat-hunting-scenario2)**  
+- 🔎 **[Threat Hunt: PowerShell Port Scanning](https://github.com/SecOpsPete/threat-hunting-scenarios/tree/main/port-scanning-detection)**  
   Detection and investigation of internal lateral movement using obfuscated scripts.
 
-- 🌐 **[Threat Hunt: Exposed VM Brute Force](https://github.com/SecOpsPete/threat-hunting-scenario1)**  
+- 🌐 **[Threat Hunt: Exposed VM Brute Force](https://github.com/SecOpsPete/threat-hunting-scenarios/tree/main/brute-force-detection)**  
   Analysis of brute-force behavior on a cloud-based Linux server.
 
 - 🕵️‍♂️ **[Threat Hunt: Tor Browser Usage](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
   Collaborated on detection of anonymized traffic in enterprise environments.
+
 
 ---
 
