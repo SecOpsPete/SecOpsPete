@@ -25,6 +25,11 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ## 🚨 Threat Hunting & Security Operations
 
+## 🔎 Threat Hunting Labs
+
+- 🧪 **[Suspicious Insider Exfiltration Attempt](https://github.com/SecOpsPete/threat-hunting-scenario-dataexfil)**  
+  Investigates potential insider threat activity using Microsoft Defender for Endpoint, correlating file, process, and network telemetry to detect staged data exfiltration.
+
 - 🔎 **[Threat Hunt: PowerShell Port Scanning](https://github.com/SecOpsPete/threat-hunting-scenario2)**  
   Detection and investigation of internal lateral movement using obfuscated scripts.
 
