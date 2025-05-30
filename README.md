@@ -26,7 +26,7 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ## 🔎 Threat Hunting Labs
 
-- 🛡️ [PwnCrypt Ransomware Detection](https://github.com/SecOpsPete/threat-hunting-scenarios/blob/main/pwncrypt-ransomware-detection/README.md)  
+- 🛡️ **[PwnCrypt Ransomware Detection](https://github.com/SecOpsPete/threat-hunting-scenarios/blob/main/pwncrypt-ransomware-detection/README.md)**  
   Detects file encryption activity, delivery via PowerShell, and execution of the `pwncrypt.ps1` ransomware script using Microsoft Defender telemetry and MITRE ATT&CK mapping.
 
 - 🧪 **[Suspicious Insider Exfiltration Attempt](https://github.com/SecOpsPete/threat-hunting-scenarios/tree/main/insider-data-exfil)**  
@@ -49,10 +49,10 @@ I’m passionate about securing systems and solving real-world problems through 
 - 🔐 **[GPG Signature Verification Guide](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/gpg-verification-guide)**  
   A step-by-step guide for verifying file authenticity and integrity using GPG with real-world examples.
 
-- 🧪 [File Integrity Verification (SHA256)](https://github.com/SecOpsPete/cybersecurity-tools/tree/main/file-integrity-verification)  
+- 🧪 **[File Integrity Verification (SHA256)](https://github.com/SecOpsPete/cybersecurity-tools/tree/main/file-integrity-verification)** 
   Validates that a downloaded file hasn’t been altered using SHA256 hash checking in PowerShell.
 
-- 🔐 [SSH Key Authentication Lab](https://github.com/SecOPsPete/cybersecurity-tools/tree/main/ssh-key-authentication-lab)  
+- 🔐 **[SSH Key Authentication Lab](https://github.com/SecOPsPete/cybersecurity-tools/tree/main/ssh-key-authentication-lab)**  
   A hands-on guide to configuring and using SSH key-based authentication.
 
 
