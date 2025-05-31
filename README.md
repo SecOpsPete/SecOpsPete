@@ -47,7 +47,7 @@ I’m passionate about securing systems and solving real-world problems through 
 ## 🛠️ Tools
 
 
-- 🖨️ [Printer Firewall Hardening Lab](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/printer-firewall-hardening)  
+- 🖨️ **[Printer Firewall Hardening Lab](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/printer-firewall-hardening)** 
   Secure a network printer by applying precise Windows Defender Firewall rules to block public exposure while preserving HP Smart functionality.
 
 - 🔐 **[GPG Signature Verification Guide](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/gpg-verification-guide)**  
