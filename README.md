@@ -29,7 +29,7 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Security Tools
 
 - 🖨️ **[Printer Firewall Hardening](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/printer-firewall-hardening)**  
   Secure a network printer by applying precise Windows Defender Firewall rules to block public exposure while preserving HP Smart functionality.
