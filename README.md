@@ -4,6 +4,12 @@
 
 ---
 
+🚀 **Cybersecurity Enthusiast | Solutions Engineer Track**
+
+I’m passionate about securing systems and solving real-world problems through hands-on projects. My portfolio highlights how I apply cybersecurity tools and frameworks to improve threat detection, vulnerability management, and operational resilience.
+
+---
+
 ## 🛠️ Tools
 
 
@@ -21,12 +27,6 @@
 
 
 _More tools coming soon: remediation automations, network analysis helpers, and more._
-
----
-
-🚀 **Cybersecurity Enthusiast | Solutions Engineer Track**
-
-I’m passionate about securing systems and solving real-world problems through hands-on projects. My portfolio highlights how I apply cybersecurity tools and frameworks to improve threat detection, vulnerability management, and operational resilience.
 
 ---
 
