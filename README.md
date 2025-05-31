@@ -31,7 +31,7 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ## 🧪 Incident Response Labs
 
-- 🔐 **[Brute Force Detection with Microsoft Sentinel](./brute-force-detection-sentinel/README.md)**  
+- 🔐 **[Brute Force Detection with Microsoft Sentinel](https://github.com/SecOpsPete/incident-response-sentinel/brute-force-detection-sentinel/README.md)**  
   Detects multiple failed login attempts from the same remote IP using KQL and Microsoft Sentinel analytics rules.
 
 ---
