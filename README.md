@@ -38,6 +38,9 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ## 🛠️ Security Tools
 
+- 🛠️ **[Process Investigation with PowerShell](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/process-investigation-windows)**
+  Identify, analyze, and validate suspicious Windows processes using native PowerShell tools and reputation checks.
+
 - 🖨️ **[Printer Firewall Hardening](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/printer-firewall-hardening)**  
   Secure a network printer by applying precise Windows Defender Firewall rules to block public exposure while preserving vendor updating & management functionality.
 
