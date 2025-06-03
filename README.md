@@ -39,6 +39,19 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ---
 
+## ⚠️ Vulnerability Management Projects
+
+- 🔧 **[Vulnerability Management Program Implementation](https://github.com/SecOpsPete/vulnerability-management-projects/tree/main/vulnerability-management-program)**  
+  A complete documentation-based approach to launching an internal vulnerability management program.
+
+- 💻 **[Programmatic Remediation Scripts (PowerShell)](https://github.com/SecOpsPete/vulnerability-management-projects/tree/main/programmatic-remediation-scripts)**  
+  Automated scripts for common CVE remediation and configuration hardening.
+
+- 💬 **[Prompt Engineering References](https://github.com/SecOpsPete/vulnerability-management-projects/tree/main/prompt-engineering-references)**  
+  ChatGPT prompts used to generate and refine PowerShell remediation scripts, demonstrating structured problem-solving and AI-assisted development.
+
+---
+
 ## 🛠️ Security Tools
 
 - 🛠️ **[Process Investigation with PowerShell](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/process-investigation-windows)**
@@ -61,18 +74,6 @@ _More tools coming soon: remediation automations, network analysis helpers, and 
 
 ---
 
-## ⚠️ Vulnerability Management Projects
-
-- 🔧 **[Vulnerability Management Program Implementation](https://github.com/SecOpsPete/vulnerability-management-projects/tree/main/vulnerability-management-program)**  
-  A complete documentation-based approach to launching an internal vulnerability management program.
-
-- 💻 **[Programmatic Remediation Scripts (PowerShell)](https://github.com/SecOpsPete/vulnerability-management-projects/tree/main/programmatic-remediation-scripts)**  
-  Automated scripts for common CVE remediation and configuration hardening.
-
-- 💬 **[Prompt Engineering References](https://github.com/SecOpsPete/vulnerability-management-projects/tree/main/prompt-engineering-references)**  
-  ChatGPT prompts used to generate and refine PowerShell remediation scripts, demonstrating structured problem-solving and AI-assisted development.
-
----
 
 
 ## 🤝 Connect With Me
