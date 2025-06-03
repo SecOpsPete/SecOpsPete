@@ -31,7 +31,7 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ## 🧪 Incident Response Labs
 
-- ⚡ **[PowerShell Suspicious Web Request Detection](https://github.com/SecOpsPete/incident-response-sentinel/tree/main/ps-suspicous-web-requeset)**  
+- ⚡ **[PowerShell Suspicious Web Request Detection](https://github.com/SecOpsPete/incident-response-sentinel/blob/main/ps-suspicous-web-request)**  
   Simulates post-exploitation behavior where PowerShell downloads remote payloads using `Invoke-WebRequest`. Includes Sentinel rule creation, incident triage, and MDE-based containment following the NIST IR framework.
 
 - 🔐 **[Brute Force Detection with Microsoft Sentinel](https://github.com/SecOpsPete/incident-response-sentinel/tree/main/brute-force-detection-sentinel)**  
