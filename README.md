@@ -27,8 +27,6 @@ I’m passionate about securing systems and solving real-world problems through 
 - 🌐 **[Threat Hunt: Exposed VM Brute Force](https://github.com/SecOpsPete/threat-hunting-scenarios/tree/main/brute-force-detection)**  
   Analysis of brute-force behavior on a cloud-based Linux server.
 
-- 🕵️‍♂️ **[Threat Hunt: Tor Browser Usage](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**  
-  Collaborated on detection of anonymized traffic in enterprise environments.
 
 ---
 
