@@ -31,6 +31,9 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ## 🧪 Incident Response Labs
 
+- 🌍 **[Impossible Travel Detection with Microsoft Sentinel](https://github.com/SecOpsPete/incident-response-sentinel/tree/main/impossible-travel-detection-sentinel)**  
+  Detects anomalous sign-in behavior across distant geographic locations in short timeframes. Implements a Sentinel analytics rule and KQL-based investigation to identify potential account compromise. Follows the NIST IR framework for containment, validation, and closure.
+
 - ⚡ **[PowerShell Suspicious Web Request Detection](https://github.com/SecOpsPete/incident-response-sentinel/tree/main/ps-suspicious-web-request)**  
   Simulates post-exploitation behavior where PowerShell downloads remote payloads using `Invoke-WebRequest`. Includes Sentinel rule creation, incident triage, and MDE-based containment following the NIST IR framework.
 
