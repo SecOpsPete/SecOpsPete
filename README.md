@@ -61,9 +61,6 @@ I’m passionate about securing systems and solving real-world problems through 
 - 🛠️ **[Process Investigation with PowerShell](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/process-investigation-windows)**
   Identify, analyze, and validate suspicious Windows processes using native PowerShell tools and reputation checks.
 
-- 🖨️ **[Printer Firewall Hardening](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/printer-firewall-hardening)**  
-  Secure a network printer by applying precise Windows Defender Firewall rules to block public exposure while preserving vendor updating & management functionality.
-
 - 🔐 **[GPG Signature Verification Guide](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/gpg-verification-guide)**  
   A step-by-step guide for verifying file authenticity and integrity using GPG with real-world examples.
 
@@ -79,6 +76,9 @@ I’m passionate about securing systems and solving real-world problems through 
 
 - 🔐 **[Secure SOHO Network](https://github.com/SecOpsPete/secure-soho-network)**  
   Documents the design and implementation of a secure small office/home office (SOHO) network. Features include IoT segmentation, guest SSID isolation, firewall configuration, endpoint protection with Malwarebytes, NordVPN, BitLocker encryption, and a Raspberry Pi syslog server for centralized logging.
+
+- 🖨️ **[Printer Firewall Hardening](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/printer-firewall-hardening)**  
+  Secure a network printer by applying precise Windows Defender Firewall rules to block public exposure while preserving vendor updating & management functionality.
 
 
 _More tools coming soon: remediation automations, network analysis helpers, and more._
