@@ -1,4 +1,4 @@
-# 🔐 Peter Van Rossum's IT & Cybersecurity Project Portfolio
+# 🛡️ Cybersecurity Projects & Technical Labs by Peter Van Rossum
 
 📍 [Connect on LinkedIn](https://www.linkedin.com/in/vanr/)
 
