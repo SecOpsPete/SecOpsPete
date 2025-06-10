@@ -74,7 +74,7 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ## 🏠 Home Network Security
 
-- 🔐 **[Secure SOHO Network](https://github.com/SecOpsPete/secure-soho-network)**  
+- 🔐 **[Secure SOHO Network](https://github.com/SecOpsPete/secure-soho-network/blob/main/secure-soho-network-lab)**  
   Documents the design and implementation of a secure small office/home office (SOHO) network. Features include IoT segmentation, guest SSID isolation, firewall configuration, endpoint protection with Malwarebytes, NordVPN, BitLocker encryption, and a Raspberry Pi syslog server for centralized logging.
 
 - 🖨️ **[Printer Firewall Hardening](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/printer-firewall-hardening)**  
