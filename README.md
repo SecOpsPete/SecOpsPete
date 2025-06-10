@@ -73,6 +73,13 @@ I’m passionate about securing systems and solving real-world problems through 
 - 🔐 **[SSH Key Authentication Lab](https://github.com/SecOpsPete/cybersecurity-tools/tree/main/ssh-key-authentication-lab)**  
   A hands-on guide to configuring and using SSH key-based authentication.
 
+---
+
+## 🏠 Home Network Security
+
+- 🔐 **[Secure SOHO Network](https://github.com/SecOpsPete/secure-soho-network)**  
+  Documents the design and implementation of a secure small office/home office (SOHO) network. Features include IoT segmentation, guest SSID isolation, firewall configuration, endpoint protection with Malwarebytes, NordVPN, BitLocker encryption, and a Raspberry Pi syslog server for centralized logging.
+
 
 _More tools coming soon: remediation automations, network analysis helpers, and more._
 
