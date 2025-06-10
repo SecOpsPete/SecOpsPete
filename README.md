@@ -79,6 +79,10 @@ I’m passionate about securing systems and solving real-world problems through 
 
 - 🖨️ **[Printer Firewall Hardening](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/printer-firewall-hardening)**  
   Secure a network printer by applying precise Windows Defender Firewall rules to block public exposure while preserving vendor updating & management functionality.
+  
+- 🛡️ **[Secure Network Security Profile](https://github.com/SecOpsPete/secure-soho-network/tree/main/network-security-profile)**  
+  Evaluates and documents the security posture of a SOHO network with layered defenses including VLAN segmentation, endpoint hardening, router firewall rules, BitLocker encryption, and syslog integration via Raspberry Pi. Includes visual diagrams and implementation walkthrough.
+
 
 
 _More tools coming soon: remediation automations, network analysis helpers, and more._
