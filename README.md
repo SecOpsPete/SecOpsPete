@@ -10,6 +10,14 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ---
 
+## 🛡️ DISA STIG Compliance Labs
+
+- 📋 **[Windows 10 STIG Remediation Scripts](https://github.com/SecOpsPete/disa-stig-compliance-labs)**  
+  A growing collection of PowerShell scripts designed to automate remediation of DISA STIG findings on Windows systems. Each lab follows a standardized structure and includes clear metadata, usage instructions, and STIG traceability (e.g., `WN10-AU-000500`).  
+  Ideal for compliance hardening, audit preparation, or RMF/ATO alignment in federal and defense environments.
+
+---
+
 ## 🔎 Threat Hunting Labs
 
 - 🕵️‍♂️ **[Unauthorized TOR Activity Detection](https://github.com/SecOpsPete/threat-hunting-scenarios/blob/main/unauthorized-tor-activity)**  
