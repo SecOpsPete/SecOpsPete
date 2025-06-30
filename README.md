@@ -85,7 +85,7 @@ I’m passionate about securing systems and solving real-world problems through 
 - 🔐 **[Secure SOHO Network](https://github.com/SecOpsPete/secure-soho-network/blob/main/secure-soho-network-lab)**  
   Documents the design and implementation of a secure small office/home office (SOHO) network. Features include IoT segmentation, guest SSID isolation, firewall configuration, endpoint protection with Malwarebytes, NordVPN, BitLocker encryption, and a Raspberry Pi syslog server for centralized logging.
 
-- 🧠 **[KQL Linux Threat Queries](https://github.com/SecOpsPete/secure-soho-network/tree/main/kql-linux-threat-queries)**  
+- 🧠 **[Kibana KQL Linux Threat Queries](https://github.com/SecOpsPete/secure-soho-network/tree/main/kql-linux-threat-queries)**  
   A curated set of Kibana Query Language (KQL) filters for detecting suspicious Linux activity including SSH brute force attempts, failed privilege escalation, reverse shell behavior, cron job tampering, and unexpected service starts. Designed for home labs or SOC environments leveraging syslog data and the ELK stack.
 
 - 🖨️ **[Printer Firewall Hardening](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/printer-firewall-hardening)**  
