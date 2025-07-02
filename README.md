@@ -18,7 +18,7 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ---
 
-## 🔎 Threat Hunting Labs
+## 🔎 Threat Hunting Labs [🔗](https://github.com/SecOpsPete/threat-hunting-scenarios)
 
 - 🕵️‍♂️ **[Unauthorized TOR Activity Detection](https://github.com/SecOpsPete/threat-hunting-scenarios/blob/main/unauthorized-tor-activity)**  
   Investigates unsanctioned installation and usage of the TOR browser using endpoint telemetry and network activity. Demonstrates detection of silent installation, anonymous traffic over TOR relay ports, and artifacts suggesting user concealment attempts.
@@ -38,7 +38,7 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ---
 
-## 🧪 Incident Response Labs
+## 🧪 Incident Response Labs [🔗](https://github.com/SecOpsPete/incident-response-sentinel)
 
 - 🌍 **[Impossible Travel Detection with Microsoft Sentinel](https://github.com/SecOpsPete/incident-response-sentinel/tree/main/impossible-travel-detection-sentinel)**  
   Detects anomalous sign-in behavior across distant geographic locations in short timeframes. Implements a Sentinel analytics rule and KQL-based investigation to identify potential account compromise. Follows the NIST IR framework for containment, validation, and closure.
@@ -55,7 +55,7 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ---
 
-## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Projects [🔗](https://github.com/SecOpsPete/vulnerability-management-projects)
 
 - 🔧 **[Vulnerability Management Program Implementation](https://github.com/SecOpsPete/vulnerability-management-projects/tree/main/vulnerability-management-program)**  
   A complete documentation-based approach to launching an internal vulnerability management program.
@@ -68,7 +68,7 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ---
 
-## 🛠️ Security Tools
+## 🛠️ Security Tools [🔗](https://github.com/SecOpsPete/cybersecurity-tools)
 
 - 🛠️ **[Process Investigation with PowerShell](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/process-investigation-windows)**
   Identify, analyze, and validate suspicious Windows processes using native PowerShell tools and reputation checks.
@@ -84,7 +84,7 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ---
 
-## 🏠 Home Network Security
+## 🏠 Home Network Security [🔗](https://github.com/SecOpsPete/secure-soho-network)
 
 - 🔐 **[Secure SOHO Network](https://github.com/SecOpsPete/secure-soho-network/blob/main/secure-soho-network-lab)**  
   Documents the design and implementation of a secure small office/home office (SOHO) network. Features include IoT segmentation, guest SSID isolation, firewall configuration, endpoint protection with Malwarebytes, NordVPN, BitLocker encryption, and a Raspberry Pi syslog server for centralized logging.
