@@ -49,6 +49,10 @@ I’m passionate about securing systems and solving real-world problems through 
 - 🔐 **[Brute Force Detection with Microsoft Sentinel](https://github.com/SecOpsPete/incident-response-sentinel/tree/main/brute-force-detection-sentinel)**  
   Detects multiple failed login attempts from the same remote IP using KQL and Microsoft Sentinel analytics rules.
 
+- 🗺️ **[Sentinel Log Visualizations & Attack Maps](https://github.com/SecOpsPete/incident-response-sentinel/tree/main/log-visualizations)**  
+  Leverages Microsoft Sentinel to map failed logins, malicious flows, and Azure resource creation activity using KQL, custom watchlists, and Workbook-based heatmaps. Visualizes geolocated attack data across Entra ID, VM authentication, and NSG traffic using real telemetry.
+
+
 ---
 
 ## ⚠️ Vulnerability Management Projects
