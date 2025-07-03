@@ -20,6 +20,9 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ## 🔎 Threat Hunting Labs [🔗](https://github.com/SecOpsPete/threat-hunting-scenarios)
 
+- 🕵️‍♂️ **[The Invisible RDP](https://github.com/SecOpsPete/threat-hunting-scenarios/blob/main/the-invisible-rdp)**  
+  Investigates a suspicious RDP connection from a public IP that bypassed standard logging. Uncovers abuse of `svchost.exe`, persistent execution of `wermgr.exe -upload`, and stealthy HTTPS exfiltration activity using native Windows binaries.
+
 - 🕵️‍♂️ **[Unauthorized TOR Activity Detection](https://github.com/SecOpsPete/threat-hunting-scenarios/blob/main/unauthorized-tor-activity)**  
   Investigates unsanctioned installation and usage of the TOR browser using endpoint telemetry and network activity. Demonstrates detection of silent installation, anonymous traffic over TOR relay ports, and artifacts suggesting user concealment attempts.
 
