@@ -93,7 +93,7 @@ I’m passionate about securing systems and solving real-world problems through 
   Documents the design and implementation of a secure small office/home office (SOHO) network. Features include IoT segmentation, guest SSID isolation, firewall configuration, endpoint protection with Malwarebytes, NordVPN, BitLocker encryption, and a Raspberry Pi syslog server for centralized logging.
 
 - 📡 **[Windows Log Forwarding to Raspberry Pi Syslog](https://github.com/SecOpsPete/secure-soho-network/blob/main/log-forwarding-pipeline)**  
-  Demonstrates reliable log forwarding from a Windows system to a Raspberry Pi syslog collector using NXLog and Filebeat. Covers full pipeline configuration for centralized log ingestion, parsing, and visualization in the Elastic Stack.
+  Demonstrates log forwarding from a Windows 10 system to a Raspberry Pi syslog server using PowerShell and Task Scheduler. Logs are parsed and visualized via a Dockerized Elastic Stack on the Windows host—no NXLog or Filebeat required.
 
 - 🧠 **[Kibana KQL Linux Threat Queries](https://github.com/SecOpsPete/secure-soho-network/tree/main/kql-linux-threat-queries)**  
   A curated set of Kibana Query Language (KQL) filters for detecting suspicious Linux activity including SSH brute force attempts, failed privilege escalation, reverse shell behavior, cron job tampering, and unexpected service starts. Designed for home labs or SOC environments leveraging syslog data and the ELK stack.
