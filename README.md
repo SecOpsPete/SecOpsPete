@@ -106,38 +106,25 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ---
 
-## 🧰 Tools:
+## 🧰 Tools
 
-**Network**  
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+| **Network** | **Endpoint & Virtualization** | **Security Testing** |
+|------------|-------------------------------|----------------------|
+| ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white) | ![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0066B8?style=for-the-badge&logo=microsoft&logoColor=white) | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F47F24?style=for-the-badge&logo=portswigger&logoColor=white) |
+| ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-4E4E4E?style=for-the-badge&logo=metasploit&logoColor=white) |
+| ![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) |
+|  |  | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
 
-**Endpoint & Virtualization**  
-![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0066B8?style=for-the-badge&logo=microsoft&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+---
 
-**Security Testing**  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F47F24?style=for-the-badge&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-4E4E4E?style=for-the-badge&logo=metasploit&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Log Management & Threat Detection**  
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![Syslog](https://img.shields.io/badge/Syslog-000000?style=for-the-badge&logo=linux&logoColor=white)
-
-**Vulnerability Management**  
-![Tenable Nessus](https://img.shields.io/badge/Nessus-5E67EB?style=for-the-badge&logoColor=white)
-
-**Cloud & DevOps**  
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+| **Log Management & Detection** | **Vulnerability Management** | **Cloud & DevOps** |
+|-------------------------------|------------------------------|--------------------|
+| ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white) | ![Tenable Nessus](https://img.shields.io/badge/Nessus-5E67EB?style=for-the-badge&logoColor=white) | ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
+| ![Syslog](https://img.shields.io/badge/Syslog-000000?style=for-the-badge&logo=linux&logoColor=white) |  |  |
 
 _More tools coming soon: remediation automations, network analysis helpers, and more._
 
 ---
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanr/)
