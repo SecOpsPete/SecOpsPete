@@ -115,14 +115,15 @@ I’m passionate about securing systems and solving real-world problems through 
 | ![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) |
 |  |  | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
 
----
+🔹🔹🔹
 
 | **Log Management & Detection** | **Vulnerability Management** | **Cloud & DevOps** |
 |-------------------------------|------------------------------|--------------------|
 | ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white) | ![Tenable Nessus](https://img.shields.io/badge/Nessus-5E67EB?style=for-the-badge&logoColor=white) | ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
 | ![Syslog](https://img.shields.io/badge/Syslog-F47F24?style=for-the-badge&logo=linux&logoColor=white) |  |  |
 
-_More tools coming soon: remediation automations, network analysis helpers, and more._
+
+- More tools coming soon: remediation automations, network analysis helpers, and more._
 
 ---
 ## 🤝 Connect With Me
