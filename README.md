@@ -120,7 +120,7 @@ I’m passionate about securing systems and solving real-world problems through 
 | **Log Management & Detection** | **Vulnerability Management** | **Cloud & DevOps** |
 |-------------------------------|------------------------------|--------------------|
 | ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white) | ![Tenable Nessus](https://img.shields.io/badge/Nessus-5E67EB?style=for-the-badge&logoColor=white) | ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
-| ![Syslog](https://img.shields.io/badge/Syslog-000000?style=for-the-badge&logo=linux&logoColor=white) |  |  |
+| ![Syslog](https://img.shields.io/badge/Syslog-F47F24?style=for-the-badge&logo=linux&logoColor=white) |  |  |
 
 _More tools coming soon: remediation automations, network analysis helpers, and more._
 
