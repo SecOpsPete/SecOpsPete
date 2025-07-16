@@ -73,6 +73,9 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ## 🛠️ Security Tools [🔗](https://github.com/SecOpsPete/cybersecurity-tools)
 
+- 🛡️ **[Windows Threat Audit & Cleanup Automation](https://github.com/SecOpsPete/win-threat-audit-cleanup-automation)**  
+  Perform scheduled system audits and temp folder cleanup using PowerShell. Enhance visibility into autoruns, services, TCP connections, and missing security logging.
+
 - 🛠️ **[Process Investigation with PowerShell](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/process-investigation-windows)**
   Identify, analyze, and validate suspicious Windows processes using native PowerShell tools and reputation checks.
 
