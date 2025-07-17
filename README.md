@@ -71,10 +71,13 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ---
 
-## 🛠️ Security Tools [🔗](https://github.com/SecOpsPete/cybersecurity-tools)
+## 🛠️ Cybersecurity Tools [🔗](https://github.com/SecOpsPete/cybersecurity-tools)
 
 - 🛡️ **[Windows Threat Audit & Cleanup Automation](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/win-threat-audit-cleanup-automation)**  
   Perform scheduled system audits and temp folder cleanup using PowerShell. Enhance visibility into autoruns, services, TCP connections, and missing security logging.
+
+- 🔒 **[Microsoft Defender Attack Surface Reduction](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/microsoft-defender-attack-surface-reduction)**  
+  Block macro-based payloads by enabling ASR rules in Microsoft Defender. Prevent Office apps from spawning child processes like PowerShell to reduce common malware techniques.
 
 - 🛠️ **[Process Investigation with PowerShell](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/process-investigation-windows)**
   Identify, analyze, and validate suspicious Windows processes using native PowerShell tools and reputation checks.
