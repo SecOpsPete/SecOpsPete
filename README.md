@@ -55,6 +55,9 @@ I’m passionate about securing systems and solving real-world problems through 
 - 🗺️ **[Sentinel Log Visualizations & Attack Maps](https://github.com/SecOpsPete/incident-response-sentinel/tree/main/log-visualizations)**  
   Leverages Microsoft Sentinel to map failed logins, malicious flows, and Azure resource creation activity using KQL, custom watchlists, and Workbook-based heatmaps. Visualizes geolocated attack data across Entra ID, VM authentication, and NSG traffic using real telemetry.
 
+- 🧠 **[UnInstDaemon.exe High CPU Incident Response](https://github.com/SecOpsPete/incident-response-sentinel/tree/main/the-daemon-that-wouldnt-quit)**  
+  Investigates a Microsoft-signed binary (`UnInstDaemon.exe`) that remained active in the Temp directory, consuming excessive CPU after a failed cleanup routine. This lab walks through full process triage, digital signature verification, VirusTotal analysis, correlation with Microsoft Update Health Tools, and post-incident validation. A realistic Windows IR scenario demonstrating calm           decision-making and forensic precision.
+
 
 ---
 
