@@ -104,7 +104,7 @@ I’m passionate about securing systems and solving real-world problems through 
 - 📡 **[Windows Log Forwarding to Raspberry Pi Syslog](https://github.com/SecOpsPete/secure-soho-network/blob/main/log-forwarding-pipeline)**  
   Demonstrates log forwarding from a Windows 10 system to a Raspberry Pi syslog server using PowerShell and Task Scheduler. Logs are parsed and visualized via a Dockerized Elastic Stack on the Windows host—no NXLog or Filebeat required.
 
-- 🧠 **[Kibana KQL Linux Threat Queries](https://github.com/SecOpsPete/secure-soho-network/tree/main/kql-linux-threat-queries)**  
+- 📊 **[Practical KQL Queries for Detecting SSH & Linux Intrusions](https://github.com/SecOpsPete/secure-soho-network/tree/main/kql-linux-threat-queries)**  
   A curated set of Kibana Query Language (KQL) filters for detecting suspicious Linux activity including SSH brute force attempts, failed privilege escalation, reverse shell behavior, cron job tampering, and unexpected service starts. Designed for home labs or SOC environments leveraging syslog data and the ELK stack.
 
 - 🖨️ **[Printer Firewall Hardening](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/printer-firewall-hardening)**  
