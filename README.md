@@ -36,7 +36,7 @@ I’m passionate about securing systems and solving real-world problems through 
   Detection and investigation of internal lateral movement using obfuscated scripts.
 
 - 🌐 **[Threat Hunt: Exposed VM Brute Force](https://github.com/SecOpsPete/threat-hunting-scenarios/tree/main/brute-force-detection)**  
-  Analysis of brute-force behavior on a cloud-based Linux server.
+  Analysis of brute-force behavior on a Windows 2019 server VM.
 
 
 ---
