@@ -32,7 +32,7 @@ I’m passionate about securing systems and solving real-world problems through 
 - 🧪 **[Insider Data Exfiltration](https://github.com/SecOpsPete/threat-hunting-scenarios/tree/main/insider-data-exfil)**  
   Investigates potential insider threat activity using Microsoft Defender for Endpoint, correlating file, process, and network telemetry to detect staged data exfiltration.
 
-- 🌐 **[Exposed VM Brute Force](https://github.com/SecOpsPete/threat-hunting-scenarios/tree/main/brute-force-detection)**  
+- 🌐 **[Brute Force Detection](https://github.com/SecOpsPete/threat-hunting-scenarios/tree/main/brute-force-detection)**  
   Analysis of brute-force behavior on a Windows 2019 server VM.
 
 - 🔎 **[Internal PowerShell Port Scanning](https://github.com/SecOpsPete/threat-hunting-scenarios/tree/main/port-scanning-detection)**  
