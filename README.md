@@ -97,10 +97,10 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ## 🏠 Home Network Security [🔗](https://github.com/SecOpsPete/secure-soho-network)
 
-- 🔐 **[Secure SOHO Network](https://github.com/SecOpsPete/secure-soho-network/blob/main/secure-soho-network-lab)**  
+- 🔐 **[Secure SOHO Network Configuration Lab](https://github.com/SecOpsPete/secure-soho-network/blob/main/secure-soho-network-lab)**  
   Documents the design and implementation of a secure small office/home office (SOHO) network. Features include IoT segmentation, guest SSID isolation, firewall configuration, endpoint protection with Malwarebytes, NordVPN, BitLocker encryption, and a Raspberry Pi syslog server for centralized logging.
 
-- 📡 **[Windows Log Forwarding to Raspberry Pi Syslog](https://github.com/SecOpsPete/secure-soho-network/blob/main/log-forwarding-pipeline)**  
+- 📡 **[Windows-to-Raspberry Pi Syslog Pipeline](https://github.com/SecOpsPete/secure-soho-network/blob/main/log-forwarding-pipeline)**  
   Demonstrates log forwarding from a Windows 10 system to a Raspberry Pi syslog server using PowerShell and Task Scheduler. Logs are parsed and visualized via a Dockerized Elastic Stack on the Windows host—no NXLog or Filebeat required.
 
 - 📊 **[Practical KQL Queries for Detecting SSH & Linux Intrusions](https://github.com/SecOpsPete/secure-soho-network/tree/main/kql-linux-threat-queries)**  
