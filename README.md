@@ -33,7 +33,7 @@ I’m passionate about securing systems and solving real-world problems through 
   Investigates potential insider threat activity using Microsoft Defender for Endpoint, correlating file, process, and network telemetry to detect staged data exfiltration.
 
 - 🌐 **[Brute Force Detection](https://github.com/SecOpsPete/threat-hunting-scenarios/tree/main/brute-force-detection)**  
-  Analysis of brute-force behavior on a Windows 2019 server VM.
+  Detection of suspicious authentication failures and patterns indicating password guessing or brute force attacks.
 
 - 🔎 **[Internal PowerShell Port Scanning](https://github.com/SecOpsPete/threat-hunting-scenarios/tree/main/port-scanning-detection)**  
   Detection and investigation of internal lateral movement using obfuscated scripts.
