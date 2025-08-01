@@ -26,7 +26,7 @@ I’m passionate about securing systems and solving real-world problems through 
 - 🕵️‍♂️ **[Unauthorized TOR Activity Detection](https://github.com/SecOpsPete/threat-hunting-scenarios/blob/main/unauthorized-tor-activity)**  
   Investigates unsanctioned installation and usage of the TOR browser using endpoint telemetry and network activity. Demonstrates detection of silent installation, anonymous traffic over TOR relay ports, and artifacts suggesting user concealment attempts.
 
-- 🛡️ **[PwnCrypt Ransomware Detection](https://github.com/SecOpsPete/threat-hunting-scenarios/blob/main/pwncrypt-ransomware-detection/README.md)**  
+- 🛡️ **[Zero-Day Ransomware Detection](https://github.com/SecOpsPete/threat-hunting-scenarios/blob/main/pwncrypt-ransomware-detection/README.md)**  
   Detects file encryption activity, delivery via PowerShell, and execution of the `pwncrypt.ps1` ransomware script using Microsoft Defender telemetry and MITRE ATT&CK mapping.
 
 - 🧪 **[Suspicious Insider Exfiltration Attempt](https://github.com/SecOpsPete/threat-hunting-scenarios/tree/main/insider-data-exfil)**  
