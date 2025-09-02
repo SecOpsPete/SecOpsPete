@@ -93,6 +93,10 @@ I’m passionate about securing systems and solving real-world problems through 
 - 🔐 **[SSH Key Authentication](https://github.com/SecOpsPete/cybersecurity-tools/tree/main/ssh-key-authentication-lab)**  
   A hands-on guide to configuring and using SSH key-based authentication.
 
+- 🔐 **[Microsoft 365 DKIM Setup & Verification](https://github.com/SecOpsPete/cybersecurity-tools/tree/main/DKIM-setup-guide)**  
+  Step-by-step guide for publishing DKIM CNAME records at your DNS host, enabling DKIM in Microsoft 365 Defender, and verifying authentication via Gmail headers and DMARC aggregate reports.
+
+
 ---
 
 ## 🏠 Professional-Grade Home Lab for Cybersecurity Research & Network Hardening [🔗](https://github.com/SecOpsPete/secure-soho-network)
