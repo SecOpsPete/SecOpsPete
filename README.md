@@ -113,7 +113,7 @@ I’m passionate about securing systems and solving real-world problems through 
 - 📊 **[Practical KQL Queries for Detecting SSH & Linux Intrusions](https://github.com/SecOpsPete/secure-soho-network/tree/main/kql-linux-threat-queries)**  
   A curated set of Kibana Query Language (KQL) filters for detecting suspicious Linux activity including SSH brute force attempts, failed privilege escalation, reverse shell behavior, cron job tampering, and unexpected service starts. Designed for home labs or SOC environments leveraging syslog data and the ELK stack.
 
-  - 💽 **[Isolated USB Malware Checking Station](https://github.com/SecOpsPete/secure-soho-network/blob/main/USB-malware-checking-station/README.md)**  
+- 💽 **[Isolated USB Malware Checking Station](https://github.com/SecOpsPete/secure-soho-network/blob/main/USB-malware-checking-station/README.md)**  
   A Raspberry Pi–based lab for safely screening USB drives before they touch trusted systems. The workflow mounts drives read-only, scans with ClamAV, and saves logs to an external SSD. If malware is detected, the process escalates to forensic imaging and offline analysis in Autopsy, preserving evidence integrity while preventing accidental execution.
 
 - 🖨️ **[Printer Firewall Hardening](https://github.com/SecOpsPete/cybersecurity-tools/blob/main/printer-firewall-hardening)**  
