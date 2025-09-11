@@ -134,12 +134,15 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ## 🧰 Tools
 
-| **Network** | **Endpoint & Virtualization** | **Security Testing** |
-|------------|-------------------------------|----------------------|
+
+| **Network** | **Endpoint & Virtualization** | **Security Testing & SIEM** |
+|-------------|-------------------------------|-----------------------------|
 | <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory"> | <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0066B8?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender for Endpoint"> | <img src="https://img.shields.io/badge/Burp%20Suite-F47F24?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite"> |
 | <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"> | <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"> | <img src="https://img.shields.io/badge/Metasploit-4E4E4E?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"> |
 | <img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS"> | <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"> | <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"> |
-|  |  | <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"> |
+| <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"> | <img src="https://img.shields.io/badge/Sysmon-808080?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon"> | <img src="https://img.shields.io/badge/Atomic%20Red%20Team-CC0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Atomic Red Team"> |
+| <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Elastic Stack"> |  | <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"> |
+
 
 🔹🔹🔹
 
