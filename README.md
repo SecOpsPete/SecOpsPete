@@ -12,7 +12,7 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ## 🏗️ Active Directory Labs [🔗](https://github.com/SecOpsPete/active-directory-labs)
 
-- 🛡️ **[Active Directory Detection Lab](https://github.com/SecOpsPete/active-directory-labs/tree/main/active-directory-detection-lab)**  
+- 🛡️ **[Active Directory Detection Lab](https://github.com/SecOpsPete/active-directory-labs/blob/main/active-directory-detection-lab)**  
   Builds a domain environment with Windows Server and a client, wires telemetry with Sysmon + Splunk Universal Forwarder, and simulates adversary techniques (Kali brute force, Atomic Red Team) to generate real logs. Includes SPL queries, dashboards, and alerts drawn from common SOC playbooks to practice detection engineering in a safe home lab.
 
 ---
