@@ -10,6 +10,15 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ---
 
+## 🏗️ Active Directory Detection Lab
+
+- 📋 **[Active Directory Detection Lab](https://github.com/SecOpsPete/active-directory-detection-lab)**  
+  A complete home lab project that combines Active Directory, Sysmon, Splunk, and attack simulation (Kali Linux + Atomic Red Team). The lab guides readers through domain setup, user/group management, telemetry forwarding, and Splunk configuration, then simulates real-world adversary behavior to build and validate detections.  
+  Perfect for hands-on practice in SOC analysis, detection engineering, and learning how enterprise Windows environments generate and surface security events.
+
+---
+
+
 ## 🛡️ DISA STIG Compliance Labs
 
 - 📋 **[Windows 10 STIG Remediation Scripts](https://github.com/SecOpsPete/disa-stig-compliance-labs)**  
