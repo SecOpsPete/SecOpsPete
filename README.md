@@ -10,6 +10,13 @@ I’m passionate about securing systems and solving real-world problems through 
 
 ---
 
+## 🧠 Agentic AI (Agentic AI Cybersecurity Agent) [🔗](https://github.com/SecOpsPete/agentic-ai-cybersecurity-agent)
+
+- 🤖 **[Agentic AI Cybersecurity Agent](https://github.com/SecOpsPete/agentic-ai-cybersecurity-agent)**  
+  An AI-powered, Python-based autonomous threat-hunting agent that integrates with **Azure Sentinel** and **Defender for Endpoint** to analyze telemetry from 1,000+ endpoints using **KQL**. Designed for rapid IoC detection (300–500× human speed), the agent recommends or simulates isolation with human-in-the-loop validation and includes hardened guardrails: password-protected isolation, PII redaction, row/byte caps, time-window enforcement, input validation, and robust error handling. Roadmap items include OWASP LLM hardening and MITRE ATLAS mapping.
+
+--- 
+
 ## 🏗️ Active Directory [🔗](https://github.com/SecOpsPete/active-directory-labs)
 
 - 🛡️ **[Active Directory Detection Lab](https://github.com/SecOpsPete/active-directory-labs/tree/main/active-directory-detection-lab)**  
