@@ -6,7 +6,7 @@
 
 🚀 **Cybersecurity Analyst | Engineering Enthusiast **
 
-I’m passionate about securing systems and solving real-world problems through hands-on projects. My portfolio highlights how I apply cybersecurity tools and frameworks to improve threat detection, vulnerability management, and operational resilience.
+Driven by curiosity and a hands-on mindset, I specialize in securing systems and enhancing operational resilience. My work focuses on applying cybersecurity tools, frameworks, and analytical techniques to strengthen threat detection, streamline vulnerability management, and translate complex security challenges into practical solutions.
 
 ---
 
