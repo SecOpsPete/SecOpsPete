@@ -4,7 +4,7 @@
 
 ---
 
-🚀 **Cybersecurity Enthusiast | Analyst**
+🚀 **Cybersecurity Analyst | Engineering Dabbler**
 
 I’m passionate about securing systems and solving real-world problems through hands-on projects. My portfolio highlights how I apply cybersecurity tools and frameworks to improve threat detection, vulnerability management, and operational resilience.
 
