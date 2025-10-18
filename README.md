@@ -4,7 +4,7 @@
 
 ---
 
-🚀 **Cybersecurity Analyst | Engineering Enthusiast **
+🚀 **Cybersecurity Analyst | Engineering Enthusiast**
 
 Driven by curiosity and a hands-on mindset, I specialize in securing systems and enhancing operational resilience. My work focuses on applying cybersecurity tools, frameworks, and analytical techniques to strengthen threat detection, streamline vulnerability management, and translate complex security challenges into practical solutions.
 
