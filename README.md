@@ -17,6 +17,13 @@ Driven by curiosity and a hands-on mindset, I specialize in securing systems and
 
   Custom improvements/enhancements include: hardened guardrails: password-protected isolation, PII redaction, row/byte caps, time-window enforcement, input validation, and robust error handling. Roadmap items include OWASP LLM hardening and MITRE ATLAS mapping.
 
+<h3 align="center">🎬 Watch the Video:</h3>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=tms3dnZih4U&t=33s">
+    <img src="https://img.youtube.com/vi/tms3dnZih4U/maxresdefault.jpg" width="400" alt="Watch the video">
+  </a>
+</p>
+
 --- 
 
 ## 🏗️ Active Directory [🔗](https://github.com/SecOpsPete/active-directory-labs)
