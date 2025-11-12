@@ -44,7 +44,7 @@ Driven by curiosity and a hands-on mindset, I specialize in securing systems and
 
 ## 🔎 Threat Hunting Labs [🔗](https://github.com/SecOpsPete/threat-hunting-scenarios)
 
-- 🛡️ **[RDP Breach Hunt](https://github.com/SecOpsPete/threat-hunting-scenarios/blob/main/rdp-breach-hunt)**  
+- 🛡️ **[RDP Breach Hunt - CTF](https://github.com/SecOpsPete/threat-hunting-scenarios/blob/main/rdp-breach-hunt)**  
   Reconstructs a full compromise triggered by an external password spray attack against host **flare**, exposing attacker persistence via scheduled tasks, beaconing attempts, and lateral movement activity mapped to MITRE ATT&CK.
 
 - 🕵️‍♂️ **[The Invisible RDP](https://github.com/SecOpsPete/threat-hunting-scenarios/blob/main/the-invisible-rdp)**  
