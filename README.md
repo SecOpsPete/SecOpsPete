@@ -26,6 +26,16 @@ Driven by curiosity and a hands-on mindset, I specialize in securing systems and
 
 --- 
 
+## 🧰 Jira Projects Lab (ITSM • Customer Service Engineering) [🔗](https://github.com/SecOpsPete/jira-projects-lab)
+
+- 🛠️ **[Jira Support Environment](https://github.com/SecOpsPete/jira-projects-lab/tree/main/jira-support-environment)**  
+  A complete, end-to-end **Jira Service Management IT Support Desk** build designed to simulate a real enterprise helpdesk environment.  
+  This project showcases expertise in **Jira workflows, request types, SLAs, automation rules, customer portals, queue design, and internal agent operations**.
+
+  This lab demonstrates practical ITSM design skills expected of **Support Engineers, IT Analysts, Customer Support Engineers, and SaaS Support Specialists**.
+
+---
+
 ## 🏗️ Active Directory [🔗](https://github.com/SecOpsPete/active-directory-labs)
 
 - 🛡️ **[Active Directory Detection Lab](https://github.com/SecOpsPete/active-directory-labs/tree/main/active-directory-detection-lab)**  
