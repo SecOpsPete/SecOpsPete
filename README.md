@@ -10,7 +10,7 @@ Driven by curiosity and a hands-on mindset, I specialize in securing systems and
 
 ---
 
-## 🧠 Agentic AI (Agentic AI Cybersecurity Agent) [🔗](https://github.com/SecOpsPete/agentic-ai-cybersecurity-agent)
+## 🧠 Agentic AI Cybersecurity Agent [🔗](https://github.com/SecOpsPete/agentic-ai-cybersecurity-agent)
 
 - 🤖 **[Agentic AI Cybersecurity Agent](https://github.com/SecOpsPete/agentic-ai-cybersecurity-agent)**  
   An AI-powered, Python-based autonomous threat-hunting agent that integrates with Azure Sentinel and Defender for Endpoint to analyze telemetry from 1,000+ endpoints using KQL.
