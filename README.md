@@ -26,7 +26,7 @@ Driven by curiosity and a hands-on mindset, I specialize in securing systems and
 
 --- 
 
-## 🧰 Jira Projects Lab (ITSM • Customer Service Engineering) [🔗](https://github.com/SecOpsPete/jira-projects-lab)
+## 🧰 Jira Projects (ITSM • Customer Service Engineering) [🔗](https://github.com/SecOpsPete/jira-projects-lab)
 
 - 🛠️ **[Jira Support Environment](https://github.com/SecOpsPete/jira-projects-lab/tree/main/jira-support-environment)**  
   A complete, end-to-end Jira Service Management IT Support Desk build designed to simulate a real enterprise helpdesk environment.  
