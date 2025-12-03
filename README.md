@@ -13,7 +13,7 @@ Driven by curiosity and a hands-on mindset, I specialize in securing systems and
 ## 🧠 Agentic AI (Agentic AI Cybersecurity Agent) [🔗](https://github.com/SecOpsPete/agentic-ai-cybersecurity-agent)
 
 - 🤖 **[Agentic AI Cybersecurity Agent](https://github.com/SecOpsPete/agentic-ai-cybersecurity-agent)**  
-  An AI-powered, Python-based autonomous threat-hunting agent that integrates with **Azure Sentinel** and **Defender for Endpoint** to analyze telemetry from 1,000+ endpoints using **KQL**.
+  An AI-powered, Python-based autonomous threat-hunting agent that integrates with Azure Sentinel and Defender for Endpoint to analyze telemetry from 1,000+ endpoints using KQL.
 
   Custom improvements/enhancements include: hardened guardrails: password-protected isolation, PII redaction, row/byte caps, time-window enforcement, input validation, and robust error handling. Roadmap items include OWASP LLM hardening and MITRE ATLAS mapping.
 
@@ -32,7 +32,7 @@ Driven by curiosity and a hands-on mindset, I specialize in securing systems and
   A complete, end-to-end **Jira Service Management IT Support Desk** build designed to simulate a real enterprise helpdesk environment.  
   This project showcases expertise in **Jira workflows, request types, SLAs, automation rules, customer portals, queue design, and internal agent operations**.
 
-  This lab demonstrates practical ITSM design skills expected of **Support Engineers, IT Analysts, Customer Support Engineers, and SaaS Support Specialists**.
+  This lab demonstrates practical ITSM design skills expected of Support Engineers, IT Analysts, Customer Support Engineers, and SaaS Support Specialists.
 
 ---
 
