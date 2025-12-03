@@ -166,24 +166,37 @@ Driven by curiosity and a hands-on mindset, I specialize in securing systems and
 
 ## 🧰 Tools
 
-
 | **Network** | **Endpoint & Virtualization** | **Security Testing & SIEM** |
 |-------------|-------------------------------|-----------------------------|
-| <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory"> | <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0066B8?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender for Endpoint"> | <img src="https://img.shields.io/badge/Burp%20Suite-F47F24?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite"> |
+| <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory"> | <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-0066B8?style=for-the-badge&logo=microsoft&logoColor=white" alt="MDE"> | <img src="https://img.shields.io/badge/Burp%20Suite-F47F24?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite"> |
 | <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"> | <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"> | <img src="https://img.shields.io/badge/Metasploit-4E4E4E?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"> |
-| <img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS"> | <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"> | <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"> |
-| <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"> | <img src="https://img.shields.io/badge/Sysmon-808080?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon"> | <img src="https://img.shields.io/badge/Atomic%20Red%20Team-CC0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Atomic Red Team"> |
-| <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Elastic Stack"> |  | <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"> |
-
+| <img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS"> | <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"> | <img src="https://img.shields.io/badge/Microsoft%20Sentinel-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel"> |
+| <img src="https://img.shields.io/badge/Speedify-ED1C24?style=for-the-badge&logoColor=white" alt="Speedify"> | <img src="https://img.shields.io/badge/Sysmon-808080?style=for-the-badge&logo=windows&logoColor=white" alt="Sysmon"> | <img src="https://img.shields.io/badge/Atomic%20Red%20Team-CC0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Atomic Red Team"> |
+| <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Elastic Stack"> | <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"> | <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"> |
 
 🔹🔹🔹
 
 | **Log Management & Detection** | **Vulnerability Management** | **Cloud & DevOps** |
 |-------------------------------|------------------------------|--------------------|
-| <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="ELK Stack"> | <img src="https://img.shields.io/badge/Nessus-5E67EB?style=for-the-badge&logoColor=white" alt="Nessus"> | <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"> |
-| <img src="https://img.shields.io/badge/Syslog-F47F24?style=for-the-badge&logo=linux&logoColor=white" alt="Syslog"> |  |  |
+| <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="ELK Stack"> | <img src="https://img.shields.io/badge/Nessus-5E67EB?style=for-the-badge&logoColor=white" alt="Nessus"> | <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"> |
+| <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Logstash"> |  | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> |
+| <img src="https://img.shields.io/badge/Syslog-F47F24?style=for-the-badge&logo=linux&logoColor=white" alt="Syslog"> |  | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> |
 
-- More tools coming soon: remediation automations, network analysis helpers, and more.
+🔹🔹🔹
+
+| **Customer Support & CRM** | **Project / Ticketing Systems** | **Productivity & Collaboration** |
+|----------------------------|----------------------------------|----------------------------------|
+| <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"> | <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"> | <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365"> |
+| <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot"> | <img src="https://img.shields.io/badge/ServiceNow-1DBF73?style=for-the-badge&logoColor=white" alt="ServiceNow"> | <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"> |
+| <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom"> | <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"> | <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"> |
+
+
+
+
+
+
+
+
 
 ---
 ## 🤝 Connect With Me
