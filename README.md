@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity & IT Projects by Peter Van Rossum
+# 🛡️ Cybersecurity, IT and Client Experience Projects by Peter Van Rossum
 
 📍 [Connect on LinkedIn](https://www.linkedin.com/in/vanr/)
 
